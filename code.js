@@ -24,4 +24,6 @@ function helloWorld() {
 function sayHello(str){
      return `Hello, ${str}!`
 }
-sayHello("Jane");
+// sayHello("Jane");
+// sayHello("Alex");
+// sayHello("Pat");
