@@ -13,9 +13,15 @@ function helloWorld() {
 
 //exercise 1
 
-function sayHello(){
-    return "Hello, is it me you're looking for?"
-}
+// function sayHello(){
+//     return "Hello, is it me you're looking for?"
+// }
 
 //exercise 2
 
+//exercise 3
+
+function sayHello(str){
+     return `Hello, ${str}!`
+}
+sayHello("Jane");
